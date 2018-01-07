@@ -1,0 +1,3 @@
+class ServerHealthException(Exception):
+    pass
+
